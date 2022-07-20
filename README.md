@@ -1,2 +1,4 @@
-# JS-Examples
-JS Exercises
+# JS-Exercises 
+**CodeAcademy** </br>
+Kelvin Weather</br>
+Dog Years
